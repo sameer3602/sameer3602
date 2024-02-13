@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on [Tour website](https://github.com/sameer3602/plan-with-sameer)
 
-- 💬 Ask me about **React.js , Javascript , Python**
+- 💬 Ask me about **React.js , Javascript , Python.**
 
 - 📫 How to reach me **sameerkhan.1234asd@gmail.com**
 
