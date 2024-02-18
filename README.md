@@ -14,8 +14,7 @@
 
 - 📫 How to reach me **sameerkhan.1234asd@gmail.com**
 
-- 📄 Know about my experiences [My resume]
-- (https://drive.google.com/file/d/1-0aYggxvIHTkwdzRyTNq9xfOhleV5hER/view?usp=drive_link)
+- 📄 Know about my experiences [My resume] (https://drive.google.com/file/d/1-0aYggxvIHTkwdzRyTNq9xfOhleV5hER/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
