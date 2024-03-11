@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sameer Ali</h1>
+<h1 align="center">Hi 👋, I'm Sameer Alii</h1>
 <h3 align="center">A passionate Full stack developer.</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameer3602" alt="sameer3602" /></a> </p>
 
