@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/sameer030602" target="blank"><img src="https://img.shields.io/twitter/follow/sameer030602?logo=twitter&style=for-the-badge" alt="sameer030602" /></a> </p>
 
-- 🔭 I’m currently working on **Education Website**
+- 🔭 I’m currently working on **EduCom Website**
 
 - 🌱 I’m currently learning **Node.js React.js Angular.js Laravel Django**
 
