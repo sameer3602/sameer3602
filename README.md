@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sameerkhan.1234asd@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1UWltv1X9DiLNU7fjozqpiO-gS-2apFim/view?usp=sharing">My Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1-8AML95uOtqtebnjRtmWL3Ro3U7mVCQn/view?usp=sharing">My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
